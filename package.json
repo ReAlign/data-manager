@@ -1,0 +1,25 @@
+{
+  "name": "data-manager",
+  "version": "0.0.1",
+  "description": "data manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/data-manager.git"
+  },
+  "keywords": [
+    "data",
+    "manage",
+    "fast",
+    "easy"
+  ],
+  "author": "ReAlign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReAlign/data-manager/issues"
+  },
+  "homepage": "https://github.com/ReAlign/data-manager#readme"
+}
